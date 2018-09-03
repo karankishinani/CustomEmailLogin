@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>644857659019-bl7lpck7n9fd63rdd6bu7p9l2i14tv8l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.644857659019-bl7lpck7n9fd63rdd6bu7p9l2i14tv8l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIuMtkwTgZR-Z8lrVv07h5n0szU1xrT4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>644857659019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>karankishinani.CustomEmailLogin</string>
+	<key>PROJECT_ID</key>
+	<string>customemaillogin-9e96b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>customemaillogin-9e96b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:644857659019:ios:4e0245bf0de53850</string>
+	<key>DATABASE_URL</key>
+	<string>https://customemaillogin-9e96b.firebaseio.com</string>
+</dict>
+</plist>
