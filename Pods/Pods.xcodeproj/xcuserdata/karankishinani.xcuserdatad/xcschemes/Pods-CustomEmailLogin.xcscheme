@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8DD0065832518E7F7D091D5C7F079E1B"
+               BlueprintIdentifier = "240F3E71A77D1758A114E912BCDE3C09"
                BuildableName = "Pods_CustomEmailLogin.framework"
                BlueprintName = "Pods-CustomEmailLogin"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -26,7 +26,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -37,7 +36,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -47,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8DD0065832518E7F7D091D5C7F079E1B"
+            BlueprintIdentifier = "240F3E71A77D1758A114E912BCDE3C09"
             BuildableName = "Pods_CustomEmailLogin.framework"
             BlueprintName = "Pods-CustomEmailLogin"
             ReferencedContainer = "container:Pods.xcodeproj">
