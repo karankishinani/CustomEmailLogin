@@ -8,7 +8,8 @@
 
 import UIKit
 import Firebase
-import FirebaseDatabase
+//import FirebaseDatabase
+
 
 class ViewController: UIViewController {
     
@@ -21,6 +22,12 @@ class ViewController: UIViewController {
     @IBOutlet weak var passwordTextField: UITextField!
     
     @IBOutlet weak var signInButton: UIButton!
+    
+    @IBOutlet weak var note: UITextView!
+    
+    //func textViewDidChange(_ note: UITextView){
+    //    self.ref.child("users").child(user.uid).setValue(["note": note.text])
+    //}
     
     var isSignIn:Bool = true
     
@@ -65,6 +72,7 @@ class ViewController: UIViewController {
                     if let u = user {
                         // User is found, go to home screen
                         self.performSegue(withIdentifier: "goToHome", sender: self)
+                        
                     }
                     else {
                         // Error: check error and show message

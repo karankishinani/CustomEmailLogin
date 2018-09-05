@@ -8,7 +8,7 @@
 
 import UIKit
 import Firebase
-import FirebaseDatabase
+//import FirebaseDatabase
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -21,9 +21,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         FirebaseApp.configure()
         
-        var ref: DatabaseReference!
+        //var ref: DatabaseReference!
         
-        ref = Database.database().reference()
+        //ref = Database.database().reference()
         
         return true
     }

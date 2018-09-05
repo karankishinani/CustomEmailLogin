@@ -110,7 +110,7 @@
         <!--View Controller-->
         <scene sceneID="0Fm-O5-SEk">
             <objects>
-                <viewController id="3Wd-mw-EjN" sceneMemberID="viewController">
+                <viewController id="3Wd-mw-EjN" customClass="ViewController" customModule="CustomEmailLogin" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mhv-JG-VBg">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -151,10 +151,13 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="y0h-ZH-AKW"/>
                     </view>
+                    <connections>
+                        <outlet property="note" destination="YeH-rQ-Xfp" id="C0n-sN-aJc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GFd-Zx-8r0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1517.5999999999999" y="33.733133433283363"/>
+            <point key="canvasLocation" x="1470" y="118"/>
         </scene>
     </scenes>
 </document>
